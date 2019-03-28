@@ -49,7 +49,7 @@ class Footer extends React.Component {
             <a href={this.pageUrl('appd-spec', this.props.language)}>
               App Directory OpenAPI
             </a>
-            <a href={this.docUrl('use-cases/use-cases-intro.html', this.props.language)}>
+            <a href={this.docUrl('use-cases/overview.html', this.props.language)}>
               Use Cases
             </a>
           </div>
